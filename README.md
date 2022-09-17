@@ -9,4 +9,5 @@ Page statique pour visualiser les vitesses et allures correspondant aux temps vi
 Update : on veut les vitesses et allures pour différentes portions de la course correspondant au type de profil. Exemple allure 1 pour de 1 à 6km, allure 2 pour de 6km à 8 km ... et cela pour un temps visé.
 
 - On dispose d'un tableau qui permet d'appliquer un facteur à la vitesse en fonction de la pente (data_study)
+- Les données des allures en fonction de la pente sont issues de cet article : https://medium.com/strava-engineering/an-improved-gap-model-8b07ae8886c3
 
